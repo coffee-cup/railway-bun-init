@@ -1,5 +1,7 @@
 # bun
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/F0K-j3?referralCode=coffeecup)
+
 To install dependencies:
 
 ```bash
